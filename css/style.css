@@ -238,9 +238,7 @@ span {
 /*  5. Home
 ----------------------------------------------------------------------------- */
 
-.section-slider{
-    height: 700px !important;
-}
+
 
 
 /*  6. About-us
@@ -253,6 +251,7 @@ span {
 }
 .about {
     background-color: #fff; 
+    margin-top: 700px !important;
 }
 .about-title h1 {
     font-size: 22px;
