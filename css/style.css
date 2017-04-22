@@ -139,7 +139,7 @@ button:focus {
     box-shadow: 0 0px 4px rgba(0,0,0,0.4);
 }
 .navbar-brand {
-    padding: 23px 15px;
+    padding: 10px 10px;
     height: auto;
 }
 .navbar-nav>li {
@@ -1995,4 +1995,9 @@ ul.pattern .color8 {
     .container {
         width: 1170px;
     }
+}
+
+
+#logo{
+    width: 200px !important;
 }
