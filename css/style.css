@@ -368,7 +368,7 @@ span {
 
 .fun-facts {
     overflow: hidden;
-    color: #888;
+    /*background-image: url("blue.jpg") !important;*/
     text-align: center;
 }
 .facts{
@@ -386,24 +386,7 @@ span {
     border-radius: 50px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
-.counter h1 {
-    font-size: 36px;
-    margin-top: 20px;
-    font-family: 'Roboto', sans-serif;
-    color: #fff;
-}
-.counter h2 {
-    font-family: 'Roboto', sans-serif;
-    color: #fff;
-    margin-top: 10px;
-    font-size: 17px;
-}
-.counter span {
-    color: #4c5667;
-}
-.counter {
-    color: #fff;
-}
+
 .bg-dark {
     background: #0288d1;
 }
@@ -1925,8 +1908,14 @@ ul.pattern .color8 {
     margin-top: 20px;
 }
 
+#fila{
+    width: 1000px !important;
+    margin-left: 150px !important;
+}
 
-
+.letra {
+    color: white !important;
+}
 
 
 
