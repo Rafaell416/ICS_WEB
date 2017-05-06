@@ -755,9 +755,9 @@ a:focus {
     font-size: 30px;
     text-transform: uppercase;
 }
-.testimonials{
-    background: url("../images/parallax.jpg") no-repeat center;
-}
+/*.testimonials{
+    
+}*/
 #testi-carousel {
     padding: 50px 0px 50px 0px;
 }
@@ -1065,9 +1065,7 @@ a.load:hover {
 ----------------------------------------------------------------------------- */
 
 .maps {
-    position: relative;
-    padding-bottom: 0px;
-    padding-top: 0px;
+    height: 500px !important;
 }
 .map-canvas {
     position: relative;
@@ -1915,6 +1913,8 @@ ul.pattern .color8 {
 
 .letra {
     color: white !important;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: 'Acme', sans-serif !important;
 }
 
 
